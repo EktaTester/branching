@@ -19,4 +19,4 @@ public class FactorialExample {
 
         sc.close();
     }
-}//Factorial
+}//Factorial prgram
